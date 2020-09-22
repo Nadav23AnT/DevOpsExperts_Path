@@ -1,2 +1,2 @@
 # Nadav-Chen-s-Projects
-All the files that this repository has are challenges on the way to learning python
+All files in this repository are challenges on the path to learn python
