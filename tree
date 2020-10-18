@@ -1,0 +1,118 @@
+[33mcommit a4de6bde6ebf368339647a5cc93d8da2cffdcba7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nadav Chen <nadav2282@gmail.com>
+Date:   Sun Oct 11 00:55:10 2020 +0300
+
+    Jenkins files Organized
+
+[33mcommit c9820ef41653a3b7c733ef2194f8f368ff156fa6[m
+Author: Nadav Chen <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Oct 9 21:25:40 2020 +0300
+
+    Create Pipeline_PythonTest
+
+[33mcommit 3d4a489c6302c0245bada82c1aefbf11717f6477[m
+Author: Nadav Chen <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Oct 9 21:24:31 2020 +0300
+
+    Create Declarative_Pipeline
+
+[33mcommit e974fd2531d4e5e1280b2f4ecd44834b8fa95080[m
+Author: Nadav Chen <nadav2282@gmail.com>
+Date:   Fri Oct 9 19:15:44 2020 +0300
+
+    added folders
+
+[33mcommit bff60ee3e54557e418145c9e066210fa7a421e18[m
+Author: Nadav Chen <nadav2282@gmail.com>
+Date:   Fri Oct 9 18:57:15 2020 +0300
+
+    jenkins homework added
+
+[33mcommit e4628a1b1ad2cf3303197c8172cee6c52c7cea09[m
+Author: Nadav Chen <nadav2282@gmail.com>
+Date:   Fri Oct 9 18:54:15 2020 +0300
+
+    Uploaded via bash
+
+[33mcommit c646b6bddae601279484d6e3b1c0fca496393d90[m
+Author: Nadav Chen <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Tue Oct 6 16:43:24 2020 +0300
+
+    Lesson 5 - First time using Jenkins [Homework]
+    
+    [Homework]
+    First time using Jenkins
+    
+    Q:
+    Create the following Jenkins build jobs using batch / shell command
+    build step:
+    1. Build Job that creates a text file containing your name on your
+    desktop.
+    2. Build job that will read your text file, and print its content.
+    3. Build job that prints the free disk space.
+    4. Build job that moves your text file into another directory
+    5. Create a job that runs once a day at 8:00
+    6. Create a declarative Jenkins pipeline which will perform exercises
+    1-4 in 4 stages.
+    7. Create a Jenkins Pipeline (New  Pipeline) running your Selenium
+    test
+    
+    Challenge:
+    Run your second build job automatically once your first build job is
+    done.
+
+[33mcommit 32e35ead45b893914e5007d5632d2c91032bb845[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Tue Sep 22 13:04:47 2020 +0300
+
+    Update README.md
+
+[33mcommit 2621d2ff9816b1faf1ed13a8d3721b1a100393e5[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Tue Sep 22 13:00:23 2020 +0300
+
+    Add files via upload
+
+[33mcommit 6226f294965677bd36489f3b001ad4da645f48a8[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Tue Sep 15 20:47:34 2020 +0300
+
+    Add files via upload
+    
+    Lesson 4 Files
+
+[33mcommit 2e7a37c44fc0e6ac13aca4a3ab0c739c647bf281[m[33m ([m[1;31morigin/Ready[m[33m)[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Sep 11 19:49:20 2020 +0300
+
+    Create README.md
+
+[33mcommit 00c7a8b945b86453d282021e8be7a9f135eac918[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Sep 11 19:40:30 2020 +0300
+
+    Create Try_And_Catch_Challenge.py
+
+[33mcommit ee86110a6dda4bd07dbdf6c66e645419341258ae[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Sep 11 19:40:28 2020 +0300
+
+    Create Machines_AutoShudown.py
+
+[33mcommit 404ea6d180a7e8f0a6265180891b0cdd33bc2b4a[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Sep 11 19:40:26 2020 +0300
+
+    Create ImageChallenge.py
+
+[33mcommit 6bd97b1d6cbd0cdd513f02a12fc44d636b8b9e2e[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Sep 11 19:40:22 2020 +0300
+
+    Create File_exercise_Challenge.py
+
+[33mcommit f3451ef851a02a661296d863cef06c4649c4ca9e[m
+Author: Nadav23AnT <71144691+Nadav23AnT@users.noreply.github.com>
+Date:   Fri Sep 11 19:37:04 2020 +0300
+
+    Initial commit
