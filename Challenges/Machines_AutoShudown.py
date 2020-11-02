@@ -8,7 +8,7 @@
 from time import sleep
 
 
-ATTEMPTS =5
+ATTEMPTS = 5
 
 def _dummy_all_shutdown(machine):
     """
